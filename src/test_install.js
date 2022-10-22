@@ -1,4 +1,7 @@
 const { getArray } = require("./hackUtils");
+
+
+
 console.log(getArray(10, 10));
 console.log(getArray(10, 10));
 console.log(getArray(10, 10));
